@@ -1,7 +1,7 @@
 name: Feature Request
-description: Suggest an improvement for GameMaker!
+description: Suggest an improvement for Wizarducks and the Lost hat!
 type: 'Feature'
-labels: ["feature request"]
+labels: ["enhancement"]
 body:
  - type: textarea
    id: problem
@@ -18,14 +18,6 @@ body:
      description: A clear and concise description of what you want to happen.
    validations:
      required: true
-     
- - type: textarea
-   id: alternatives
-   attributes:
-     label: Describe alternatives you've considered
-     description: A clear and concise description of any alternative solutions or features you've considered.
-   validations:
-     required: false
      
  - type: textarea
    id: additional
